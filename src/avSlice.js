@@ -7,8 +7,8 @@ export const avSlice = createSlice({
   initialState: [
     // Projectors
     {
-      img: "https://pixabay.com/photos/business-computer-conference-20031/",
-      //img: "https://cdn.pixabay.com/photo/2012/03/01/01/10/business-20031_1280.jpg",
+      //img: "https://pixabay.com/photos/business-computer-conference-20031/",
+      img: "https://cdn.pixabay.com/photo/2012/03/01/01/10/business-20031_1280.jpg",
       name: "Projectors",
       cost: 200,
       quantity: 0,
